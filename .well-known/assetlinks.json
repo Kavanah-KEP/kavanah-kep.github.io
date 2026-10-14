@@ -1,12 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.github.kavanahkep.absenku",
-      "sha256_cert_fingerprints": [
-        "GANTI_DENGAN_SHA256_DARI_FILE_assetlinks.json_HASIL_PWABUILDER"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kavanahkep.absenku",
+        "sha256_cert_fingerprints": ["BD:C6:BC:65:73:06:5E:26:8A:39:04:CF:42:ED:AA:0F:F6:FE:EA:C3:F0:FC:46:0F:E4:C9:71:F6:B8:01:E0:80"]
+      }
+    }]
