@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.kavanahkep.absenku",
+      "sha256_cert_fingerprints": [
+        "GANTI_DENGAN_SHA256_DARI_FILE_assetlinks.json_HASIL_PWABUILDER"
+      ]
+    }
+  }
+]
